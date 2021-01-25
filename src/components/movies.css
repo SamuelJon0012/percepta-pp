@@ -1,0 +1,6 @@
+.movieList {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    height: auto;
+    white-space: nowrap;
+}
